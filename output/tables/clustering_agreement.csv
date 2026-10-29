@@ -1,0 +1,3 @@
+"comparison","adjusted_rand_index"
+"Ward vs k-means (same variables)",0.234554401312192
+"Ward: all variables vs diagnosis variables only",1

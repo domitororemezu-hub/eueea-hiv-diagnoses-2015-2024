@@ -1,0 +1,7 @@
+"group","series_n","series_with_warnings","refits_n","refits_failed","max_rel_diff_expected","max_rel_diff_se","max_abs_diff_limits","classification_changes","poisson_max_rel_diff_expected","poisson_max_abs_diff_limits","poisson_classification_changes"
+"EU/EEA benchmarks with overdispersion",6,3,36,0,2.75335310107039e-13,1.86481718955633e-10,0,0,NA,NA,NA
+"EU/EEA benchmarks without overdispersion",4,4,24,8,9.0176844991241e-08,1.88292569524018e-05,2,0,9.0186097145839e-08,2,0
+"Four-country comparator with overdispersion",2,2,12,0,7.31759097760687e-12,3.4206149024385e-10,0,0,NA,NA,NA
+"Four-country comparator without overdispersion",2,2,12,4,1.20437435913168e-07,3.14012999325097e-05,1,0,1.20522504643006e-07,1,0
+"Country series with overdispersion",56,11,336,0,4.75726703585977e-08,NA,NA,NA,NA,NA,NA
+"Country series without overdispersion",92,92,552,209,1.5388353026502e-05,NA,NA,NA,1.53888618796838e-05,NA,NA

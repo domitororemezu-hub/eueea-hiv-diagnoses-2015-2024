@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article (preferred citation) and this repository."
+title: "Persistent departures from pre-COVID HIV diagnosis trends in the EU/EEA, 2022–2024: code and data"
+abstract: >-
+  R code, extracted public data (ECDC/WHO HIV/AIDS surveillance reports for data years 2015-2024; Eurostat
+  migr_asytpspop), result tables and figure code for an ecological analysis of HIV diagnoses in 30 EU/EEA
+  countries by transmission category, sex and country.
+type: software
+license: MIT
+version: "1.0.0"
+keywords:
+  - HIV surveillance
+  - EU/EEA
+  - COVID-19
+  - temporary protection
+  - ecological study
+authors:
+  - family-names: Remez
+    given-names: Dmytro
+    affiliation: "Juntendo University Faculty of Medicine"
+preferred-citation:
+  type: article
+  title: "Persistent departures from pre-COVID HIV diagnosis trends in the EU/EEA, 2022–2024: an ecological analysis by transmission category, sex, and country"
+  authors:
+    - family-names: Remez
+      given-names: Dmytro
+    - family-names: Mori
+      given-names: Hirotake
+    - family-names: Krokva
+      given-names: Daria
+    - family-names: Lumjiaktase
+      given-names: Putthapoom
+    - family-names: Frutos
+      given-names: Roger
+    - family-names: Cornillot
+      given-names: Emmanuel
+    - family-names: Hadano
+      given-names: Yoshiro
+    - family-names: Itoh
+      given-names: Naoya
+    - family-names: Naito
+      given-names: Toshio
+  journal: "BMC Public Health"
+  year: 2026
+  notes: "Submitted; volume, pages and DOI to be added on publication."
