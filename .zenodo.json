@@ -1,0 +1,21 @@
+{
+  "title": "Persistent departures from pre-COVID HIV diagnosis trends in the EU/EEA, 2022–2024: code and data",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "R code, extracted public data (ECDC/WHO HIV/AIDS surveillance in Europe reports for data years 2015–2024; Eurostat dataset migr_asytpspop), result tables and figure code for the article 'Persistent departures from pre-COVID HIV diagnosis trends in the EU/EEA, 2022–2024: an ecological analysis by transmission category, sex, and country' (Remez D, Mori H, Krokva D, Lumjiaktase P, Frutos R, Cornillot E, Hadano Y, Itoh N, Naito T; submitted to BMC Public Health).",
+  "creators": [
+    {
+      "name": "Remez, Dmytro",
+      "affiliation": "Juntendo University Faculty of Medicine"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "keywords": [
+    "HIV surveillance",
+    "EU/EEA",
+    "COVID-19",
+    "temporary protection",
+    "ecological study"
+  ]
+}
